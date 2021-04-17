@@ -1,0 +1,90 @@
+#mainCircle {
+  width: 800px;
+  height: 800px;
+  background: black;
+  border-radius: 50%;
+  margin: 350px 0px 0px 1100px;
+}
+
+.green {
+  width: 400px;
+  height: 400px;
+  background: darkgreen;
+  border-radius: 50%;
+  border: 15px solid black;
+  margin: -1000px 0px 0px 900px;
+}
+
+.red {
+  width: 400px;
+  height: 400px;
+  background: darkred;
+  border-radius: 50%;
+  border: 15px solid black;
+  margin: -430px 0px 0px 1680px;
+}
+
+#highScore {
+  width: 100px;
+  height: 100px;
+  background: azure;
+  margin: 120px 0px 0px 1230px;
+  font-family: "Orbitron", sans-serif;
+  border-radius: 10px;
+  font-size: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#start {
+  width: 250px;
+  height: 100px;
+  background: azure;
+  margin: -100px 0px 0px 1380px;
+  font-family: "Orbitron", sans-serif;
+  border-radius: 10px;
+  font-size: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#currentScore {
+  width: 100px;
+  height: 100px;
+  background: azure;
+  margin: -100px 0px 0px 1680px;
+  font-family: "Orbitron", sans-serif;
+  border-radius: 10px;
+  font-size: 42px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#lightCircle {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: red;
+  margin: 50px 0px 0px 1500px;
+}
+
+.blue {
+  width: 400px;
+  height: 400px;
+  background: darkblue;
+  border-radius: 50%;
+  border: 15px solid black;
+  margin: 40px 0px 0px 1680px;
+}
+
+.yellow {
+  width: 400px;
+  height: 400px;
+  background: goldenrod;
+  border-radius: 50%;
+  border: 15px solid black;
+  margin: -430px 0px 0px 900px;
+}
